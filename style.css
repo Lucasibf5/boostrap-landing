@@ -1,0 +1,12 @@
+.navbar-collapse {
+    align-items: flex-start;
+
+  }
+
+  #navbarSupportedContent{
+    width: 25rem;
+  }
+
+  .navbar-collapse {
+    flex-grow: 0;
+      }
